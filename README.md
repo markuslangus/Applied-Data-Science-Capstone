@@ -1,6 +1,6 @@
-## Viewing the Notebook
+## Viewing the Notebooks
 
-To view the Jupyter Notebook with all contents and interactive Folium maps, please follow these steps:
+To view the Jupyter Notebooks with all their contents and interactive Folium maps, please follow these steps:
 
 1. Open [nbviewer](https://nbviewer.jupyter.org/).
 2. Copy the URL of the notebook on GitHub:
