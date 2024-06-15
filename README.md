@@ -1,6 +1,6 @@
 ## Important Notice for Viewing Notebooks with Interactive Content
 
-To properly view Jupyter Notebooks that contain interactive outputs, such as Folium maps, please follow these steps:
+To properly view Jupyter Notebooks that contain interactive outputs, such as Folium maps and Plotly dashboards, please follow these steps:
 
 1. Open [nbviewer](https://nbviewer.jupyter.org/).
 2. Navigate to the desired notebook file within this repository and copy its URL.
