@@ -6,4 +6,4 @@ To properly view Jupyter Notebooks that contain interactive outputs, such as Fol
 2. Navigate to the desired notebook file within this repository and copy its URL.
 3. Paste the copied URL into the search field on `nbviewer` and click "Go".
 
-By following these steps, the notebook will be rendered in `nbviewer` and the interactive Folium maps will be displayed correctly.
+By following these steps, the notebook will be rendered in `nbviewer` and the interactive elements will be displayed correctly.
