@@ -26,7 +26,7 @@ The Plotly Dashboard requires running on your local machine to be properly viewe
     pip install dash pandas plotly
     ```
 
-2. Download the `.py` file and save it locally on your machine.
+2. Download the [python file](https://github.com/markuslangus/Applied-Data-Science-Capstone/blob/main/spacex_dash_app.py) and save it locally on your machine.
 3. Navigate to the directory containing the `.py` file and run the script using the following command:
 
     ```bash
