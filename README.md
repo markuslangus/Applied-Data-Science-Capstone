@@ -20,7 +20,7 @@ To view the notebooks live and properly display interactive elements such as Fol
 
 The Plotly Dashboard requires running on your local machine to be properly viewed. Follow these steps to run it on your machine:
 
-### Instructions to Host the Plotly Dashboard Locally
+### :information_source: Instructions to Host the Plotly Dashboard Locally
 
 1. Ensure you have `Python` and `pip` installed. Then install the required packages by running the following command in your command shell:
 
