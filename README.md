@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the repository for the IBM Applied Data Science Capstone Project titled "Winning Space Race with Data Science". This repository contains various resources and materials, including Jupyter Notebooks, Python code snippets, and the final presentation slides.
+Welcome to the repository for the IBM Applied Data Science Capstone Project titled "Winning Space Race with Data Science". This repository contains various resources and materials, including Jupyter Notebooks, Python code snippets, and the [final presentation slides](https://github.com/markuslangus/Applied-Data-Science-Capstone/blob/main/AppliedDataScienceCapstone_IBM.pdf).
 
 ## Notebooks
 
