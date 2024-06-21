@@ -6,13 +6,11 @@ Welcome to the repository for the IBM Applied Data Science Capstone Project titl
 
 ## Notebooks
 
-To view the notebooks live and properly display interactive elements such as Folium maps, use `nbviewer`. Click the following links to open the Jupyter Notebooks of this repository in `nbviewer`:
+To view the notebooks live and properly display interactive elements such as Folium maps, we will use `nbviewer`. Just click on the following links to open the Jupyter Notebooks of this repository in `nbviewer`:
 
-1. Open [nbviewer](https://nbviewer.jupyter.org/).
+1. [Data Collection - SpaceX API]([(https://github.com/markuslangus/Applied-Data-Science-Capstone/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)])
 2. Navigate to the desired notebook file within this repository and copy its URL.
 3. Paste the copied URL into the search field on `nbviewer` and click "Go".
-
-By following these steps, your notebook will be rendered in `nbviewer` with interactive elements displayed correctly.
 
 ## Plotly Dashboard
 
