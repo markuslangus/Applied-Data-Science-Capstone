@@ -23,7 +23,7 @@ The Plotly Dashboard requires running on your local machine to be properly viewe
 1. Ensure you have `Python` and `pip` installed. Then install the required packages by running the following command in your command shell:
 
     ```bash
-    pip install -r requirements.txt
+    pip install dash pandas plotly
     ```
 
 2. Download the `.py` file and save it locally on your machine.
