@@ -1,6 +1,3 @@
-# Install required libraries
-!pip install dash -q
-
 # Import required libraries
 import pandas as pd
 import dash
