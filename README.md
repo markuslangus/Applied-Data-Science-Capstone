@@ -9,8 +9,12 @@ Welcome to the repository for the IBM Applied Data Science Capstone Project titl
 To view the notebooks live and properly display interactive elements such as Folium maps, we will use `nbviewer`. Just click on the following links to open the Jupyter Notebooks of this repository in `nbviewer`:
 
 1. [Data Collection - SpaceX API](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/jupyter-labs-spacex-data-collection-api.ipynb)
-2. Navigate to the desired notebook file within this repository and copy its URL.
-3. Paste the copied URL into the search field on `nbviewer` and click "Go".
+2. [Data Collection - Web Scraping](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/jupyter-labs-webscraping.ipynb)
+3. [Data Wrangling](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb)
+5. [EDA with Data Visualization](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/jupyter-labs-eda-dataviz.ipynb)
+6. [EDA with SQL](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+7. [Build an Interactive Map with Folium](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/lab_jupyter_launch_site_location.ipynb)
+8. [Predictive Analysis - Classification](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
 
 ## Plotly Dashboard
 
