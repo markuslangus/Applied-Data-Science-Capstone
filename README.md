@@ -1,10 +1,10 @@
-# Applied Data Science Capstone - IBM
+# :rocket: Applied Data Science Capstone - IBM
 
 ## Overview
 
 Welcome to the repository for the IBM Applied Data Science Capstone Project titled "Winning Space Race with Data Science". This repository contains various resources and materials, including Jupyter Notebooks, Python code snippets, and the [final presentation slides](https://github.com/markuslangus/Applied-Data-Science-Capstone/blob/main/AppliedDataScienceCapstone_IBM.pdf).
 
-## Notebooks
+## :page_facing_up: Notebooks
 
 To view the notebooks live and properly display interactive elements such as Folium maps, we will use `nbviewer`. Just click on the following links to open the Jupyter Notebooks of this repository in `nbviewer`:
 
@@ -16,7 +16,7 @@ To view the notebooks live and properly display interactive elements such as Fol
 6. [Build an Interactive Map with Folium](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/lab_jupyter_launch_site_location.ipynb)
 7. [Predictive Analysis - Classification](https://nbviewer.org/github/markuslangus/Applied-Data-Science-Capstone/blob/main/SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
 
-## Plotly Dashboard
+## :page_facing_up: Plotly Dashboard
 
 The Plotly Dashboard requires running on your local machine to be properly viewed. Follow these steps to run it on your machine:
 
