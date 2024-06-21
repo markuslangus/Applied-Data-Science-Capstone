@@ -6,7 +6,7 @@ Welcome to the repository for the IBM Applied Data Science Capstone Project titl
 
 ## Notebooks
 
-To view the notebooks live and properly display interactive elements such as Folium maps, use `nbviewer`. Follow these steps to view the Jupyter Notebooks in `nbviewer`:
+To view the notebooks live and properly display interactive elements such as Folium maps, use `nbviewer`. Click the following links to open the Jupyter Notebooks of this repository in `nbviewer`:
 
 1. Open [nbviewer](https://nbviewer.jupyter.org/).
 2. Navigate to the desired notebook file within this repository and copy its URL.
@@ -27,7 +27,7 @@ The Plotly Dashboard requires running on your local machine to be properly viewe
     ```
 
 2. Download the [python file](https://github.com/markuslangus/Applied-Data-Science-Capstone/blob/main/spacex_dash_app.py) and save it locally on your machine.
-3. Navigate to the directory containing the `.py` file and run the script using the following command:
+3. In your command shell, navigate to the directory containing the downloaded `.py` file and run the script using the following command:
 
     ```bash
     python spacex_dash_app.py
